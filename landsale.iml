@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="share-link" level="application" />
+    <orderEntry type="library" name="swiper" level="application" />
+    <orderEntry type="library" name="waypoints" level="application" />
+    <orderEntry type="library" name="dialog" level="application" />
+    <orderEntry type="library" name="frontend" level="application" />
+    <orderEntry type="library" name="position" level="application" />
+    <orderEntry type="library" name="jquery.sticky" level="application" />
+    <orderEntry type="library" name="frontend-modules" level="application" />
+    <orderEntry type="library" name="jquery" level="application" />
+    <orderEntry type="library" name="e-gallery" level="application" />
+    <orderEntry type="library" name="wp-embed" level="application" />
+  </component>
+</module>
